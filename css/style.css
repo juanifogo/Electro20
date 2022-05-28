@@ -14,6 +14,7 @@ h1{
 }
 #LogoElectro20{
     margin: 0px 0px 0px 20px;
+    width: 5%;
 }
 nav{
 font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -29,6 +30,7 @@ h3{
 p{
     margin: 15px 3px 15px 3px;
     font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
 }
 ol{
     margin: 5px 0px 10px 0px;
@@ -49,7 +51,7 @@ button{
 #HopOnLaPodrida{
     margin: 0px 0px 0px 0px;
     float: left;
-    
+    width: 12%;    
 }
 footer{
     position: fixed;
